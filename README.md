@@ -27,26 +27,26 @@ The project demonstrates core Object-Oriented Programming (OOP) concepts alongsi
 ---
 
 ## Architecture Flowchart
-
-graph TD;
-Start --> CreateAccount;
-CreateAccount --> Operations;
-Operations --> Deposit;
-Operations --> Withdraw;
-Operations --> ViewDetails;
-Operations --> UpdateContact;
-Deposit --> Operations;
-Withdraw --> Operations;
-ViewDetails --> Operations;
-UpdateContact --> Operations;
-Operations --> End;
-
----
-
-## Demo
-
-![Banking Demo](https://media.giphy.com/media/3oriePa7VtcNcoqnhy/giphy.gif)
-
+Start
+  |
+  v
+Create New Account
+  |
+  v
+Display Menu
+  |
+  +------------------------------+
+  |                              |
+  v                              v
+Deposit Money <-------------- Withdraw Money
+  |                              |
+  v                              v
+Show Account Details <------ Update Contact Info
+  |                              |
+  +--------------+---------------+
+                 |
+                 v
+              Exit Program
 ---
 
 ## Technologies Used 🛠️
@@ -59,9 +59,7 @@ Operations --> End;
 
 ---
 
-/src - Source code files
-/img - Images and GIFs like demo.gif
-README.md - This file
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDlsOXJqZTN2Zzd1NGV5MWExd2RkNzN4cnl4YjRxcHpjbGhycXJ0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif
 
 ---
 
