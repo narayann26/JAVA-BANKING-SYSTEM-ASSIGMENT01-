@@ -48,7 +48,6 @@ Show Account Details <------ Update Contact Info
                  |
                  v
               Exit Program
----
 
 ## Technologies Used 🛠️
 
