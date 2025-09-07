@@ -77,9 +77,7 @@ BTech CSE Student | AI/ML Enthusiast | Fitness & Coding Passion
 ## Acknowledgements
 
 - Inspired by coursework at K.R. Mangalam University  
-- Flowcharts rendered with [Mermaid.js](https://mermaid-js.github.io/)  
-- Badges from [shields.io](https://shields.io/)  
-- Demo GIF from [GIPHY Banking GIFs](https://giphy.com/explore/bank)
+
 
 ---
 
