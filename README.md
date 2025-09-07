@@ -6,6 +6,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/narayann26?style=social)
 
 ---
+![Banking Animation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDlsOXJqZTN2Zzd1NGV5MWExd2RkNzN4cnl4YjRxcHpjbGhycXJ0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 ## Overview
 
@@ -59,7 +60,6 @@ Show Account Details <------ Update Contact Info
 
 ---
 
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDlsOXJqZTN2Zzd1NGV5MWExd2RkNzN4cnl4YjRxcHpjbGhycXJ0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif
 
 ---
 
@@ -69,14 +69,7 @@ https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDlsOXJqZTN2Zzd1NGV5MWExd2RkNz
 BTech CSE Student | AI/ML Enthusiast | Fitness & Coding Passion  
 
 - GitHub: [https://github.com/narayann26](https://github.com/narayann26)  
-- LinkedIn: (Add your LinkedIn URL here)  
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+- LinkedIn: (https://www.linkedin.com/in/narayan-chatry/)  
 ---
 
 ## Acknowledgements
