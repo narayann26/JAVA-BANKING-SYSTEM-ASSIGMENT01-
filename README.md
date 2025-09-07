@@ -30,25 +30,26 @@ The project demonstrates core Object-Oriented Programming (OOP) concepts alongsi
 ## Architecture Flowchart
 ```
 Start
-|
-v
+  |
+  v
 Create New Account
-|
-v
+  |
+  v
 Display Menu
-|
-+------------------------------+
-| |
-v v
+  |
+  +------------------------------+
+  |                              |
+  v                              v
 Deposit Money <-------------- Withdraw Money
-| |
-v v
+  |                              |
+  v                              v
 Show Account Details <------ Update Contact Info
-| |
-+--------------+---------------+
-|
-v
-Exit Program
+  |                              |
+  +--------------+---------------+
+                 |
+                 v
+              Exit Program
+
 ```
 
 ## Technologies Used 🛠️
